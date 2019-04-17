@@ -1,0 +1,15 @@
+Do realizacji rozwi¹zañ nie mo¿na u¿ywaæ pêtli i podobnych mechanizmów
+(np. rekursji). Nale¿y wykorzystaæ metody LINQ.
+Wskazówka: ³¹czenie elementów kolekcji (np. w celu ich wypisania) mo¿na zrealizowaæ
+przy pomocy String.Join(separator,kolekcja);
+
+W ¿adnym z etapów nie wolno modyfikowaæ listy filmów (movies).
+
+Wszystkie czêœci s¹ warte 1 punkt i s¹ od siebie niezale¿ne
+Mo¿na je robiæ w dowolnej kolejnoœci.
+
+Szczegó³owa treœæ poleceñ podana jest w komentarzach metod Part(A-E) 
+w klasie MovieDatabase i tylko te metody nale¿y uzupe³niæ.
+
+Metoda LoadMovies wczytuje listê filmów z pliku movies.csv. Aby zadzia³a³a poprawnie
+plik ten nale¿y dodaæ do katalogu z projektem (tam gdzie znajduj¹ siê pliki z kodem Ÿród³owym).
