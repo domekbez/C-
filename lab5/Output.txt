@@ -1,0 +1,231 @@
+ETAP I
+
+37 94 25 72 44 41 99 96 55 40 39 54 81 85 94 81 40 99 28 13 13 85 50 6 71 30 58 10 86 12
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 28657 46368 75025 121393 196418 317811 514229
+
+ETAP II
+
+
+37 94 25 72 44 41 99 96 55 40 39 54 81 85 94 81 40 99 28 13 13 85 50 6 71 30 58 10 86 12
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 28657 46368 75025 121393 196418 317811 514229
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 28657 46368 75025 121393 196418 317811 514229
+0 5 55 610 6765 75025
+
+0 0.5 0.5 1 1.5 2.5 4 6.5 10.5 17 27.5 44.5 72 116.5 188.5 305 493.5 798.5 1292 2090.5 3382.5 5473 8855.5 14328.5 23184 37512.5 60696.5 98209 158905.5 257114.5
+
+95 56 48 59 41 77 55 63 22 66 5 45 34 2 76 75 67 95 69 48 68 77 75 8 54 51 45 20 2 14
+
+
+Sum is: 2151
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 28657 46368 75025 121393 196418 317811 514229 832040 1346269 2178309 3524578 5702887
+Original Length: 35 ToTransformedArray Length: 35
+
+
+ETAP III
+
+a = 2
+adipiscing = 1
+aenean = 2
+aliquam = 1
+aliquet = 2
+amet = 2
+ante = 1
+arcu = 3
+at = 2
+auctor = 1
+blandit = 3
+class = 1
+congue = 2
+consectetur = 2
+cras = 2
+cubilia = 1
+curabitur = 3
+curae = 1
+diam = 1
+dictum = 2
+dictumst = 1
+dolor = 2
+donec = 2
+dui = 1
+duis = 1
+egestas = 1
+eget = 4
+eleifend = 1
+elementum = 1
+elit = 2
+enim = 1
+erat = 3
+etiam = 5
+euismod = 1
+facilisis = 2
+fames = 1
+fermentum = 1
+feugiat = 1
+fringilla = 2
+gravida = 1
+habitant = 2
+habitasse = 1
+hac = 3
+id = 4
+in = 1
+inceptos = 2
+interdum = 1
+ipsum = 3
+justo = 1
+lacus = 3
+laoreet = 1
+lectus = 1
+leo = 1
+ligula = 1
+litora = 3
+lobortis = 2
+Lorem = 1
+Luctus = 1
+maecenas = 2
+magna = 1
+malesuada = 1
+massa = 3
+mattis = 3
+metus = 2
+molestie = 1
+morbi = 1
+nam = 2
+nec = 1
+neque = 1
+nibh = 1
+nisi = 1
+nisl = 1
+nullam = 1
+nunc = 1
+odio = 1
+orci = 1
+ornare = 1
+per = 1
+phasellus = 1
+placerat = 2
+platea = 2
+porttitor = 1
+posuere = 4
+pretium = 2
+primis = 1
+purus = 1
+quam = 1
+quis = 1
+quisque = 1
+Rhoncus = 1
+risus = 1
+rutrum = 1
+sagittis = 1
+sapien = 1
+sed = 1
+sem = 3
+semper = 1
+senectus = 2
+sit = 1
+sodales = 1
+sollicitudin = 1
+suscipit = 2
+taciti = 2
+tellus = 1
+tempor = 1
+tincidunt = 2
+torquent = 1
+turpis = 3
+ullamcorper = 1
+ultrices = 2
+ultricies = 1
+ut = 1
+varius = 1
+vehicula = 2
+vel = 1
+venenatis = 1
+vestibulum = 1
+vivamus = 5
+viverra = 2
+vulputate = 1
+
+ETAP IV
+
+4685
+0
+4
+22
+value: 6, derivative: 8
+value: 17, derivative: 14
+value: 34, derivative: 20
+value: 57, derivative: 26
+value: 86, derivative: 32
+value: 121, derivative: 38
+value: 162, derivative: 44
+value: 209, derivative: 50
+value: 262, derivative: 56
+
+value: 5, derivative: 3
+value: 8, derivative: 3
+value: 11, derivative: 3
+value: 14, derivative: 3
+value: 17, derivative: 3
+value: 20, derivative: 3
+value: 23, derivative: 3
+value: 26, derivative: 3
+value: 29, derivative: 3
+
+value: 8, derivative: 12
+value: 30, derivative: 34
+value: 80, derivative: 68
+value: 170, derivative: 114
+value: 312, derivative: 172
+value: 518, derivative: 242
+value: 800, derivative: 324
+value: 1170, derivative: 418
+value: 1640, derivative: 524
+
+value: 4, derivative: 9
+value: 22, derivative: 29
+value: 66, derivative: 61
+value: 148, derivative: 105
+value: 280, derivative: 161
+value: 474, derivative: 229
+value: 742, derivative: 309
+value: 1096, derivative: 401
+value: 1548, derivative: 505
+
+value: 13, derivative: 9
+value: 22, derivative: 9
+value: 31, derivative: 9
+value: 40, derivative: 9
+value: 49, derivative: 9
+value: 58, derivative: 9
+value: 67, derivative: 9
+value: 76, derivative: 9
+value: 85, derivative: 9
+
+value: 27, derivative: 63
+value: 209, derivative: 359
+value: 897, derivative: 1111
+value: 2655, derivative: 2535
+value: 6263, derivative: 4847
+value: 12717, derivative: 8263
+value: 23229, derivative: 12999
+value: 39227, derivative: 19271
+value: 62355, derivative: 27295
+
+value: 14, derivative: 5
+value: 19, derivative: 5
+value: 24, derivative: 5
+value: 29, derivative: 5
+value: 34, derivative: 5
+value: 39, derivative: 5
+value: 44, derivative: 5
+value: 49, derivative: 5
+value: 54, derivative: 5
+
+summed value: 77, summed derivative: 109
+summed value: 327, summed derivative: 453
+summed value: 1143, summed derivative: 1277
+summed value: 3113, summed derivative: 2797
+summed value: 7041, summed derivative: 5229
+summed value: 13947, summed derivative: 8789
+summed value: 25067, summed derivative: 13693
+summed value: 41853, summed derivative: 20157
+summed value: 65973, summed derivative: 28397
