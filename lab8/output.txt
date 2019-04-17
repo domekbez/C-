@@ -1,0 +1,18 @@
+*** ETAP I ***
+Serializacja OK
+*** ETAP II ***
+ZnajdzMiasto OK
+*** ETAP III ***
+Obywatel o podanym peselu istnieje ju¿ w bazie
+*** ETAP IV ***
+Usuniêto obywatela o peselu 93060187461
+Usuniêto obywatela o peselu 79090899762
+Usuniêto obywatela o peselu 93061635317
+Usuniêto obywatela o peselu 63060683413
+Obywatel o peselu 93060187461 nie istnieje w bazie
+Obywatel o peselu 13091344999 nie istnieje w bazie
+*** ETAP V ***
+Liczba obywateli urudzonych w poniedzia³ek: 1
+Liczba obywateli urudzonych w œrodê: 4
+Liczba obywateli urudzonych w niedzielê: 0
+*** KONIEC ***
