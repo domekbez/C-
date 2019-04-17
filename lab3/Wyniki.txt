@@ -1,0 +1,69 @@
+=== Etap 1 ===
+
+Liczby naturalne
+1	2	3	4	5	6	7	8	9	10	
+
+Liczby losowe
+183	527	993	924	347	448	759	65	496	230	
+
+Liczby Tetranacciego
+0	0	0	1	2	4	8	15	29	56	
+
+Liczby Catalana
+1	1	2	5	14	42	132	429	1430	4862	
+
+Wartosci wielomianu
+56	54	40	20	0	-14	-16	0	40	110	
+
+=== Etap 2 ===
+
+Poczatkowe 5 liczb
+183	527	993	924	347	
+
+Transformacja Liniowa
+15	25	35	45	55	65	75	85	95	105	
+
+Unikalne wartosci
+3	5	4	1	2	3	5	3	4	2	
+
+Liczby pierwsze z sekwencji
+2	3	5	7	11	13	17	19	23	29	
+
+=== Etap 3 ===
+
+Minima lokalne
+
+
+3	
+
+1	
+
+2	
+
+3	1	3	2	
+
+=== Etap 4 ===
+
+Mnozenie
+2	6	15	28	55	78	119	152	207	290	
+
+=== Etap 5 ===
+
+Modyfikator zlozony
+5	
+
+Modyfikator zlozony
+25	35	
+
+Tabliczka Dodawania
+
+0	1	2	3	4	
+
+1	2	3	4	5	
+
+2	3	4	5	6	
+
+3	4	5	6	7	
+
+4	5	6	7	8	
+

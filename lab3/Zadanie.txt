@@ -1,0 +1,46 @@
+
+Etap 1.
+W pliku Ciagi.cs zdefiniowaæ klasy implementuj¹ce interfejs IEnumerable
+ - Naturlne - zwraca kolejne liczby naturalne (parametr konstruktora to pierwsza liczba, domyœlnie 0)
+ - Losowe - zwraca liczby losowe z zakresu <0,max) z zadanym ziarnem generatora
+   (ziarno i max to parametry konstruktora). Wykorzystaæ klasê System.Random.
+ - Tetranacci - zwraca kolejne liczby ci¹gu Tetranacciego - t0 = t1 = t2 = 0, t3 = 1, tn = tn-1 + tn-2 + tn-3 + tn-4
+ - Catalan - zwraca ci¹g liczb Catalana, c0 = 1, cn+1 = cn * 2 * (2 * n + 1) / (n + 2);
+ - Wielomian - jako paramter konstruktora przyjmuje tablicê wspó³czynników wielomianu.
+   Zwraca wartoœci tego wielomianu liczone dla kolejnych liczb naturalnych
+
+Etap 2.
+W pliku Modyfikatory.cs zdefiniowaæ klasy implementuj¹ce interfejs IModifier
+ - PoczatkoweN - jako paramter przyjmuje n. Zwraca n pierwszych wyrazów ci¹gu
+ - TransformacjaLiniowa - przekszta³ca ci¹g wejœciowy (x) wed³ug wzoru y = a*x+b, gdzie a,b - parametry konstruktora
+ - TylkoRozne - pomija s¹siaduj¹ce ze sob¹ elementy o jednakowej wartoœci
+ - LiczbyPierwsze - zwraca wszystkie liczby pierwsze z ci¹gu
+
+Etap 3.
+W pliku Modyfikatory.cs zdefiniowaæ klasê implementuj¹c¹ interfejs IModifier
+ - MinimaLokalne - zwraca wszystkie minima lokalne w ci¹gu, przyk³ady:
+      Dane                                 Wynik
+      3                                    3
+      4,1                                  1
+      2,5                                  2
+      2,5,4,4,4,1,1,2,3,5,3,4,2,2,2        2,1,3,2
+
+Etap 4.
+W pliku Polacz.cs zdefiniowaæ klasê implementuj¹c¹ interfejs IMerger
+ - Mnoz - mno¿y parami kolejne wyrazy ci¹gów (przerywa gdy skoñczy siê któraœ z sekwencji wejœciowych)
+   
+Etap 5.
+W pliku Modyfikatory.cs zdefiniowaæ klasê implementuj¹c¹ interfejs IModifier
+ - ModyfikatorZlozony - jako parametr przyjmuje tablicê obiektów IModifier.
+   Zwraca ci¹g zmodyfikowany kolejno wszystkimi modyfikatorami (elementami tablicy)
+W pliku Ciagi.cs zdefiniowaæ klasê implementuj¹c¹ interfejs IEnumerable
+ - TabliczkaDodawania - tworzy "tabliczkê dodawania" dla liczb od 0 do n ( n - parametr konstruktora)
+   UWAGA! - generujemy seksencje sekwencji (nie poszczególne liczby, a ca³e wiersze tabliczki dodawania)
+   Mo¿na skorzystaæ ze zdefiniowanych wczeœniej generatorów sekwencji i modyfikatorów.
+
+Uwagi:
+ - w³aœciwoœæ Name podaje krótki opis tego co dana klasa robi
+ - nie mo¿na u¿ywaæ LINQ
+ - nie mo¿na zmieniaæ pliku Program.cs poza odkomentowaniem odpowiednich linii.
+   Zaimplementowane klasy powinny dawaæ takie same wyniki jak w pliku Wyniki.txt
+   
